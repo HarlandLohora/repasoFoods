@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Comidas{
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.nuevaComida{
+  display: flex;
+  flex-direction: column;
+}
